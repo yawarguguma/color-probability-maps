@@ -235,5 +235,9 @@ The local dataset is not covered by either software licence. Its separate
 controlled-access terms are in `datasets/local_face/DATASET_LICENSE.md`.
 
 ## Citation
-Please use the following citation for this work. Thank you.
-Saba A, Shirazi MF, Rehman Y, Khan MM (2026) YOLO-SOD: Color probability map-based fuzzy framework using deep models for face detection. PLOS ONE 21(10): e0360794. https://doi.org/10.1371/journal.pone.0360794
+## Citation
+
+Please use the following citation if you find this work useful:
+
+> Saba A, Shirazi MF, Rehman Y, Khan MM (2026). **YOLO-SOD: Color probability map-based fuzzy framework using deep models for face detection.** *PLOS ONE*, 21(10): e0360794.  
+> https://doi.org/10.1371/journal.pone.0360794
